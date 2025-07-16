@@ -62,6 +62,9 @@ The index is stored in memory for real-time querying.
 - Internet connection (to download models and access Groq API)
 - Groq API key (register at [https://groq.com](https://groq.com))
 
+
+Try here: https://huggingface.co/spaces/Muqadas-13/pdf-question-answering
+
 ---
 
 
